@@ -50,8 +50,7 @@ Contributions are welcome! If you have any improvements or new projects that you
 ## License
 
 This project is licensed under the MIT License. 
-See the [LICENSE](LICENSE) file for details.
-[MIT](https://choosealicense.com/licenses/mit/)
+See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
 
 ## Contact
 
